@@ -1,6 +1,6 @@
 # pgm_map_creator
 将gazebo中的地图转为栅格地图。
-安装时需要先编译一遍通过，然后取消注释：
+安装时需要先编译一遍通过，然后注释以下内容再次编译：
 ![image](https://github.com/user-attachments/assets/a7f39472-4c21-4e7f-b954-176b710ee73c)
 这是msgs文件夹下的cmakelists.txt。
 这样就能正常使用了。
